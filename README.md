@@ -1,10 +1,9 @@
 ## Hi there 👋, I am Vsevolod.
-
-<h3 align="center">QA/AQA Java engineer</h3>
+<h2 align="left">QA/AQA Java engineer</h3>
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/Se_w_a" target="blank"><img align="center" src="images/tel.png" alt="Se_w_a" height="60" width="65" /></a>
+<a href="https://t.me/Se_w_a" target="blank"><img align="center" src="images/tel.jpg" alt="Se_w_a" height="60" width="65" /></a>
 </p>
 
 <!--
