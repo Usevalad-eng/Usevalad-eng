@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I am Vsevolod.
+<h3 align="center">QA/AQA engineer</h3>
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/Se_w_a" target="blank"><img align="center" src="images/tel.png" alt="Se_w_a" height="40" width="40" /></a>
+</p>
 
 <!--
 **Usevalad-eng/Usevalad-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
