@@ -4,6 +4,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/Se_w_a" target="blank"><img align="center" src="images/tel.jpg" alt="Se_w_a" height="60" width="65" /></a>
+<a href="https://www.linkedin.com/in/vsevolod-a-b9170220b/" target="blank"><img align="center" src="images/linkedIn.png" alt="Se_w_a" height="60" width="65" /></a>
 </p>
 
 <!--
